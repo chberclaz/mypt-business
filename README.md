@@ -24,7 +24,7 @@ This repository covers:
 - Sustainability / “green AI” positioning
 
 This is **not marketing copy**.
-It is a working knowledge base.
+This repository is the single source of truth for all non-code decisions related to MyPT.
 
 ## Guiding principle
 
